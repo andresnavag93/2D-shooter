@@ -7215,10 +7215,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 852393295475330877, guid: f95cf550efb223c43b58d140dfe39937, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Level2
-      objectReference: {fileID: 0}
     - target: {fileID: 3833518194041686208, guid: f95cf550efb223c43b58d140dfe39937, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -7310,10 +7306,6 @@ PrefabInstance:
     - target: {fileID: 3833518194438439597, guid: f95cf550efb223c43b58d140dfe39937, type: 3}
       propertyPath: m_Name
       value: inGameUICanvas
-      objectReference: {fileID: 0}
-    - target: {fileID: 4562443312706559860, guid: f95cf550efb223c43b58d140dfe39937, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Level2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f95cf550efb223c43b58d140dfe39937, type: 3}
