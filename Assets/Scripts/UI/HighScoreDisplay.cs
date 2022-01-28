@@ -15,7 +15,7 @@ public class HighScoreDisplay : UIelement
     /// Description:
     /// Changes the high score display
     /// Inputs:
-    /// none
+    /// nonebco
     /// Returns:
     /// void (no return)
     /// </summary>
